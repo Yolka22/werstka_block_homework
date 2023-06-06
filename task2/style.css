@@ -1,0 +1,23 @@
+header{
+    width: 1000px;
+    height: 150px;
+    background-color: gray;
+}
+main{
+    display: flex;
+}
+footer{
+    width: 1000px;
+    height: 150px;
+    background-color: gray;
+}
+.content{
+    height: 400px;
+    width: 600px;
+
+}
+.column{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(27, 23, 23);
+}
